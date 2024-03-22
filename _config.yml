@@ -12,8 +12,8 @@ title                    : "HS"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://h-personal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/til" # the subpath of your site, e.g. "/blog"
+url                      : 
+baseurl                  : 
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
